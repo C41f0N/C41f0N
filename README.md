@@ -2,17 +2,23 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN4a2p0dG43eDRkNmNuajBwYTgxMmV1N2FyMW8wbzhkczFocnQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
   <h1>Hi there, This is Sarim! 👋</h1>
   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <a target="_blank" href="https://www.linkedin.com/in/sarim-ahmed-89412a19a/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCI08w89t-vTVoWx6AZUeXVQ">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a target="_blank" href="https://www.instagram.com/_sarimahmed_/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
   </div>
-  
 </div>
-
-
+<br>
+<p align="center">
 I'm a computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Feel free to check out my repositories to see some of my best work 🤍.
 
-Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform development on <a href="https://github.com/kivy">Kivy</a>. If you want to get in touch, drop me a message at <a href="https://sarimahmed.tech">sarimahmed.tech</a>.
+Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>. If you want to explore all of my work in detail (apart from just coding), you can visit my  <a href="https://sarimahmed.tech">website</a>.
+</p>
 <br>
 <br>
 
@@ -24,6 +30,7 @@ Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creat
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain.svg" title="Debian" alt="Debian" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1266152?s=48&v=4" title="Kivy" alt="Kivy" width="40" height="40"/>&nbsp;
