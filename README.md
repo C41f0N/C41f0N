@@ -18,7 +18,6 @@
 I'm a computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Feel free to check out my repositories to see some of my best work 🤍.
 
 Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>. If you want to explore all of my work in detail (apart from just coding), you can visit my  <a href="https://sarimahmed.tech">website</a>.
-</p>
 <br>
 <br>
 
@@ -44,3 +43,4 @@ Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creat
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Adobe XD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
+</p>
