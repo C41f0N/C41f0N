@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-I'm a computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Feel free to check out my repositories to see some of my best work 🤍.<br><br>Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.
+I'm a computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="sarimsheikh.com">website</a>.<br><br>Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.
 </p>
 <br>
 <br>
