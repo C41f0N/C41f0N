@@ -17,7 +17,6 @@
 <p align="center">
 A computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.<br><br>Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="https://sarimsheikh.com">website</a>.
 </p>
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=thenoisyninga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
   <br>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
