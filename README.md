@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN4a2p0dG43eDRkNmNuajBwYTgxMmV1N2FyMW8wbzhkczFocnQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-  <h1>Hi there, This is Sarim! 👋</h1>
+  <h1>Hello there! I'm Sarim 👋</h1>
   <div id="badges">
     <a target="_blank" href="https://www.linkedin.com/in/sarim-ahmed-89412a19a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-I'm a computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.<br><br>Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="https://sarimsheikh.com">website</a>.
+A computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.<br><br>Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="https://sarimsheikh.com">website</a>.
 </p>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=thenoisyninga&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
   <br>
