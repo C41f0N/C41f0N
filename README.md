@@ -44,6 +44,6 @@ A computer enthusiast with a passion for various areas including development, au
 </p>
 <h2 align="center">Github Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thenoisyninga&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&column=6&row=3">
+  <img src="https://github-profile-trophy.vercel.app/?username=thenoisyninga&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&column=3&row=3">
 </p>
 
