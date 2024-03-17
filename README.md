@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-A computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.<br><br>Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="https://sarimsheikh.com">website</a>.
+A computer enthusiast with a passion for various areas including development, automation, and cybersecurity. Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.<br><br>Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="https://sarimsheikh.com">website</a>.<br><br>
 </p>
 <h2 align="center">My Skillset</h2>
 <p align="center">
@@ -39,9 +39,10 @@ A computer enthusiast with a passion for various areas including development, au
   <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="Adobe XD" alt="Adobe XD" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-plain.svg" title="Adobe XD" alt="Adobe Premiere Pro" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio" alt="Adobe XD" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <br><br>
 </p>
-<h2 align="center">Trophies</h2>
+<h2 align="center">Github Trophies</h2>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thenoisyninga&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET&column=6&row=3">
 </p>
