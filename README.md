@@ -52,6 +52,7 @@ A computer enthusiast with a passion for various fields including development, a
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=C41f0N&theme=onedark&rank=AAA,AA,A,B,C,UNKNOWN,SECRET&column=3&row=2&no-bg=true&margin-w=10&margin-h=20">  
 </p>
+<br>
 <h1 align="center">📊 Github Stats 📈</h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C41f0N&theme=dark&hide_border=true" width=400>
