@@ -17,7 +17,7 @@
 <p align="center">
 A computer enthusiast with a passion for various fields including development, automation, and cybersecurity. Currently, I'm pursuing my studies at FAST NU Karachi. I'm also engaged in creative coding using JavaScript and learning cross platform app development on <a href="https://github.com/kivy">Kivy</a>.<br><br>Feel free to check out my repositories to see some of my best work 🤍, or check out a more holistic view of my portfolio on my <a href="https://sarimsheikh.com">website</a>.<br><br>
 </p>
-<h2 align="center">My Skillset 💻</h2>
+<h1 align="center">💻 My Skillset 🧠</h1>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
@@ -48,12 +48,12 @@ A computer enthusiast with a passion for various fields including development, a
   <br><br>
   
 </p>
-<h2 align="center">Github Trophies 🏆</h2>
+<h1 align="center">🏆 Github Trophies 🏅</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=C41f0N&theme=onedark&rank=AAA,AA,A,B,C,UNKNOWN,SECRET&column=3&row=2&no-bg=true&margin-w=10&margin-h=20">  
 </p>
 <br>
-<h2 align="center">Github Stats 📈</h2>
+<h1 align="center">📊 Github Stats 📈</h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C41f0N&theme=dark&hide_border=true" width=400>
   <br>
