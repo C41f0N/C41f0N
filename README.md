@@ -55,8 +55,6 @@ A computer enthusiast with a passion for various fields including development, a
 <br>
 <h1 align="center">📊 Github Stats 📈</h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C41f0N&theme=dark&hide_border=true" width=400>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=C41f0N&theme=dark&show_icons=true&hide_border=true&count_private=true" width=400>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41f0N&theme=dark&show_icons=true&hide_border=true&layout=compact" width=400>
