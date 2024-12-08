@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-A computer enthusiast passionate for various fields like development, automation, and cybersecurity. I'm currently pursuing my studies at FAST NU Karachi.<br><br>Feel free to check out my repositories to see some of my best work 🤍.<br><br>
+A computer enthusiast passionate for various computing fields like development, automation, and cybersecurity. I'm currently pursuing my studies at FAST NU Karachi.<br><br>Feel free to check out my repositories to see some of my best work 🤍.<br><br>
 </p>
 <h1 align="center">💻 My Skillset 🧠</h1>
 <p align="center">
