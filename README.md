@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN4a2p0dG43eDRkNmNuajBwYTgxMmV1N2FyMW8wbzhkczFocnQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-  <h1>Hi! I'm Sarim 👋</h1>
+  <h1>Hi there! I'm Sarim 👋</h1>
   <div id="badges">
     <a target="_blank" href="https://www.linkedin.com/in/sarim-ahmed-89412a19a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,9 +15,9 @@
 </div>
 <br>
 <p align="center">
-A computer enthusiast possessing a holistic skillset 🤵🏽.<br> You can check out my repositories to witness some of my best work.<br><br>
+A computer enthusiast posessing a holistic skillset 🥷,<br>currently pursuing my studies at FAST NU Karachi. Check<br>out my repositories to witness some of my best work 🤵🏽.<br><br>
 </p>
-<h1 align="center">My Skillset</h1>
+<h1 align="center">💻 My Skillset 🧠</h1>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
@@ -48,16 +48,8 @@ A computer enthusiast possessing a holistic skillset 🤵🏽.<br> You can check
   <br><br>
   
 </p>
-<h1 align="center">🏆 Github Trophies 🏆</h1>
+<h1 align="center">🏆 Github Trophies 🏅</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=C41f0N&theme=onedark&rank=AAA,AA,A,B,C,UNKNOWN,SECRET&column=3&row=2&no-bg=true&margin-w=10&margin-h=20">  
 </p>
 <br>
-<!-- <h1 align="center">📊 Github Stats 📈</h1>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C41f0N&theme=dark&hide_border=true" width=400>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=C41f0N&theme=dark&show_icons=true&hide_border=true&count_private=true" width=400>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C41f0N&theme=dark&show_icons=true&hide_border=true&layout=compact" width=400>
-</p> -->
