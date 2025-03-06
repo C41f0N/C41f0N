@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXN4a2p0dG43eDRkNmNuajBwYTgxMmV1N2FyMW8wbzhkczFocnQ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
-  <h1>Hello.</h1>
+  <h1>Hello :)</h1>
   <div id="badges">
     <a target="_blank" href="https://www.linkedin.com/in/sarim-ahmed-89412a19a/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,7 +15,7 @@
 </div>
 <br>
 <p align="center">
-A computer enthusiast posessing a holistic skillset 🥷,<br>currently pursuing my studies at FAST NU Karachi. Check<br>out my repositories to witness some of my best work 🤵🏽.<br><br>
+I'm Sarim, a computer enthusiast posessing a holistic skillset 🥷,<br>currently pursuing my studies at FAST NU Karachi. Check<br>out my repositories to witness some of my best work 🤵🏽.<br><br>
 </p>
 <h1 align="center">💻 My Skillset 🧠</h1>
 <p align="center">
