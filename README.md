@@ -17,7 +17,7 @@
 <p align="center">
 I'm Sarim, a computer enthusiast posessing a holistic skillset 🥷,<br>currently pursuing my studies at FAST NU Karachi. Check<br>out my repositories to witness some of my best work 🤵🏽.<br><br>
 </p>
-<h1 align="center">💻 My Skillset 🧠</h1>
+<h1 align="center">My Skillset</h1>
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
@@ -48,7 +48,7 @@ I'm Sarim, a computer enthusiast posessing a holistic skillset 🥷,<br>currentl
   <br><br>
   
 </p>
-<h1 align="center">🏆 Github Trophies 🏅</h1>
+<h1 align="center">Github Trophies</h1>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=C41f0N&theme=onedark&rank=AAA,AA,A,B,C,UNKNOWN,SECRET&column=3&row=2&no-bg=true&margin-w=10&margin-h=20">  
 </p>
